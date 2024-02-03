@@ -1,6 +1,6 @@
 # Node Ekleme
 
-Bu C# sınıfı, ağaç veri yapısını oluşturmak için kullanılır. `tree` adlı bir sınıf içerir ve `nodeEkle` metodunu kullanarak ağaca düğüm eklemeyi sağlar.
+Bu C# sınıfı, binary ağaç veri yapısını oluşturmak için kullanılır. `tree` adlı bir sınıf içerir ve `nodeEkle` metodunu kullanarak ağaca düğüm eklemeyi sağlar.
 
 ## `tree` Sınıfı
 
@@ -63,7 +63,7 @@ Metot, güncellenmiş ağaç yapısını temsil eden kök düğümü döndürür
 
 ## İşleyiş
 
-1. Eğer mevcut düğüm null ise, yeni düğüm oluşturulur ve ağacın kökü olarak atanır.
+1. Eğer mevcut düğüm null ise, yeni düğüm oluşturulur ve binary ağacın kökü olarak atanır.
 2. Eğer mevcut düğüm null değilse, eklenen değere göre ağaç içerisinde uygun konuma gidilir.
 3. Eğer eklenen değer mevcut düğümün değerinden büyükse, sağ alt ağaca git ve eğer sağ alt düğüm null ise, yeni düğüm buraya eklenir; değilse, sağ alt ağacın altında işlem tekrarlanır.
 4. Eğer eklenen değer mevcut düğümün değerinden küçükse, sol alt ağaca git ve eğer sol alt düğüm null ise, yeni düğüm buraya eklenir; değilse, sol alt ağacın altında işlem tekrarlanır.
@@ -71,14 +71,14 @@ Metot, güncellenmiş ağaç yapısını temsil eden kök düğümü döndürür
 
 # Örnek 
 
-Aşağıdaki gibi bir ağaç düşünelim:
+Aşağıdaki gibi bir binary ağaç düşünelim:
 
 <div align="center">
     <h3>Ağaç</h3>
     <img src="https://github.com/yasir723/node-ekle/assets/111686779/c33ab601-25a4-481c-9ba0-82a6da5de37a" width="600">
 </div>
 
-Bu ağaca yeni bir düğüm eklemek istiyoruz. Ekleyeceğimiz düğümün değeri 11 olsun.
+Bu binary ağaca yeni bir düğüm eklemek istiyoruz. Ekleyeceğimiz düğümün değeri 11 olsun.
 
 <div align="center">
     <h3>Sonuç</h3>
