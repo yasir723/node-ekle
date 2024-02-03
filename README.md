@@ -75,12 +75,13 @@ Metot, güncellenmiş ağaç yapısını temsil eden kök düğümü döndürür
 
 <div align="center">
     <h3>Ağaç</h3>
-    <img src="https://github.com/yasir723/node-ekle/assets/111686779/c33ab601-25a4-481c-9ba0-82a6da5de37a" width="600">
+    <img src="https://github.com/yasir723/node-ekle/assets/111686779/c33ab601-25a4-481c-9ba0-82a6da5de37a" width="600" style="border: 1px solid #ddd; border-radius: 15px; padding: 10px;">
 </div>
 
 Ardından, bu ağaca yeni bir düğüm eklemek istiyoruz. Ekleyeceğimiz düğümün değeri 11 olsun.
 
 <div align="center">
     <h3>Sonuç</h3>
-    <img src="https://github.com/yasir723/node-ekle/assets/111686779/82157c2a-7957-47b4-9f59-6ef645360785" width="600">
+    <img src="https://github.com/yasir723/node-ekle/assets/111686779/82157c2a-7957-47b4-9f59-6ef645360785" width="600" style="border: 1px solid #ddd; border-radius: 15px; padding: 10px;">
 </div>
+
