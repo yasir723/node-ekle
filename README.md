@@ -25,9 +25,6 @@ class tree
 </div>
 
 
-
-
-
 ```csharp
 static tree nodeEkle(tree node, int value)
 {
