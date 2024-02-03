@@ -69,21 +69,18 @@ Metot, güncellenmiş ağaç yapısını temsil eden kök düğümü döndürür
 4. Eğer eklenen değer mevcut düğümün değerinden küçükse, sol alt ağaca git ve eğer sol alt düğüm null ise, yeni düğüm buraya eklenir; değilse, sol alt ağacın altında işlem tekrarlanır.
 5. İşlem tamamlandığında güncellenmiş ağaç yapısını temsil eden kök düğüm döndürülür.
 
-### örnek
+# Örnek 
 
-böyle bir ağaç olsun
+İlk olarak, aşağıdaki gibi bir ağaç düşünelim:
+
 <div align="center">
-     <div>
-        <h3> Ağaç </h3>
-        <img src="https://github.com/yasir723/node-ekle/assets/111686779/c33ab601-25a4-481c-9ba0-82a6da5de37a" width="600">
-     </div>
+    <h3>Ağaç</h3>
+    <img src="https://github.com/yasir723/node-ekle/assets/111686779/c33ab601-25a4-481c-9ba0-82a6da5de37a" width="600">
 </div>
 
-ardından yeni bir node eklemek isityoruz node'un value'su 11 olsun
+Ardından, bu ağaca yeni bir düğüm eklemek istiyoruz. Ekleyeceğimiz düğümün değeri 11 olsun.
 
 <div align="center">
-     <div>
-        <h3> Sonuç </h3>
-        <img src="https://github.com/yasir723/node-ekle/assets/111686779/82157c2a-7957-47b4-9f59-6ef645360785" width="600">
-     </div>
+    <h3>Sonuç</h3>
+    <img src="https://github.com/yasir723/node-ekle/assets/111686779/82157c2a-7957-47b4-9f59-6ef645360785" width="600">
 </div>
