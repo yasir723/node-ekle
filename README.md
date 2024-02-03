@@ -24,11 +24,11 @@ class tree
 <div align="center">
      <div>
         <h3> Ağaç </h3>
-        <img src="https://github.com/yasir723/node-ekle/assets/111686779/b8e51378-3ad1-4dac-bd43-6d5b1424b258.png" width="400">
+        <img src="https://github.com/yasir723/node-ekle/assets/111686779/c33ab601-25a4-481c-9ba0-82a6da5de37a" width="400">
      </div>
      <div>
         <h3> Sonuç </h3>
-        <img src="https://github.com/yasir723/node-ekle/assets/111686779/a6a33aad-1d15-46af-89f9-6f7b64a010d1" width="400">
+        <img src="https://github.com/yasir723/node-ekle/assets/111686779/82157c2a-7957-47b4-9f59-6ef645360785">
      </div>
 </div>
 
