@@ -28,7 +28,7 @@ class tree
      </div>
      <div>
         <h3> Sonuç </h3>
-        <img src="https://github.com/yasir723/node-ekle/assets/111686779/47d379bf-c9f1-4a96-97f1-357deb895d10" width="400">
+        <img src="https://github.com/yasir723/node-ekle/assets/111686779/51bcb9d1-3baa-45fb-8ae9-7a88684752be" width="400">
      </div>
 </div>
 
