@@ -18,9 +18,9 @@ class tree
 - `value`: Düğümün değerini temsil eder.
 - `right`: Düğüme bağlı olan sağ alt düğümü belirtir.
 - `left`: Düğüme bağlı olan sol alt düğümü belirtir.
-- 
+
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/yasir723/node-ekle/assets/111686779/b8e51378-3ad1-4dac-bd43-6d5b1424b258.png" width='300'>
+    <img style='border-radius: 25px;' src="https://github.com/yasir723/node-ekle/assets/111686779/b8e51378-3ad1-4dac-bd43-6d5b1424b258.png" width='300'>
     <img src="https://github.com/yasir723/node-ekle/assets/111686779/a5c1923f-691c-4377-bf69-636388a4ddff.png" width='300'>
 </div>
 
