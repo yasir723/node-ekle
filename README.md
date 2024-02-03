@@ -22,7 +22,7 @@ class tree
 
 <div>
     <img scr="https://github.com/yasir723/node-ekle/assets/111686779/2da03747-b1ff-458d-9833-40b0b0fec822" >
-    <img scr="https://github.com/yasir723/node-ekle/assets/111686779/ccf5e610-addc-480d-9481-ab29be2bb111" >
+    <img scr="![5](https://github.com/yasir723/node-ekle/assets/111686779/ccf5e610-addc-480d-9481-ab29be2bb111)" >
 </div>
 
 ```csharp
