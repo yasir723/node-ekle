@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nodeEkle", "nodeEkle\nodeEkle.csproj", "{4FCB970F-8C5D-421B-9EF4-A9FB29493E09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FCB970F-8C5D-421B-9EF4-A9FB29493E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCB970F-8C5D-421B-9EF4-A9FB29493E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCB970F-8C5D-421B-9EF4-A9FB29493E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCB970F-8C5D-421B-9EF4-A9FB29493E09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABEBF3FF-2263-4082-853D-436B0E3E10C8}
+	EndGlobalSection
+EndGlobal
