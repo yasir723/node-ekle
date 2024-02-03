@@ -19,7 +19,7 @@ class tree
 - `right`: Düğüme bağlı olan sağ alt düğümü belirtir.
 - `left`: Düğüme bağlı olan sol alt düğümü belirtir.
 
-
+## `nodeEkle` Metodu
 ```csharp
 static tree nodeEkle(tree node, int value)
 {
