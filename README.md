@@ -20,10 +20,8 @@ class tree
 - `left`: Düğüme bağlı olan sol alt düğümü belirtir.
 
 
-<div>
     <img scr="https://github.com/yasir723/node-ekle/assets/111686779/b8e51378-3ad1-4dac-bd43-6d5b1424b258" width = "150">
-    <img scr="https://github.com/yasir723/node-ekle/assets/111686779/ccf5e610-addc-480d-9481-ab29be2bb111.png" width = "150">
-</div>
+
 
 ```csharp
 static tree nodeEkle(tree node, int value)
