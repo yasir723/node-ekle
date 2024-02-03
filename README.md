@@ -1,7 +1,9 @@
-# node-ekle
+# Node Ekleme
 
 Bu C# sınıfı, ağaç veri yapısını oluşturmak için kullanılır. `tree` adlı bir sınıf içerir ve `nodeEkle` metodunu kullanarak ağaca düğüm eklemeyi sağlar.
-\n
+
+## `tree` Sınıfı
+
 ```csharp
 class tree
 {
@@ -9,4 +11,3 @@ class tree
     public tree right;
     public tree left;
 }
-```
