@@ -13,6 +13,44 @@ class tree
 }
 ```
 
+### Özellikler
+
+- `value`: Düğümün değerini temsil eder.
+- `right`: Düğüme bağlı olan sağ alt düğümü belirtir.
+- `left`: Düğüme bağlı olan sol alt düğümü belirtir.
+
+```csharp
+static tree nodeEkle(tree node, int value)
+{
+    tree tmp = new tree();
+    tmp.value = value;
+
+    if (node == null)
+    {
+        node = tmp;
+        return node;
+    }
+
+    if (node.value < value)
+    {
+        if (node.right == null)
+            node.right = tmp;
+        else
+            nodeEkle(node.right, value);
+    }
+
+    if (node.value > value)
+    {
+        if (node.left == null)
+            node.left = tmp;
+        else
+            nodeEkle(node.left, value);
+    }
+
+    return node;
+}
+```
+
 ## Parametreler
 
 - `node`: Ağaçtaki mevcut düğüm.
