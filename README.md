@@ -21,7 +21,7 @@ class tree
 
 
 <div>
-    <img scr="https://github.com/yasir723/node-ekle/assets/111686779/2da03747-b1ff-458d-9833-40b0b0fec822.png" width = "150">
+    <img scr="https://github.com/yasir723/node-ekle/assets/111686779/b8e51378-3ad1-4dac-bd43-6d5b1424b258" width = "150">
     <img scr="https://github.com/yasir723/node-ekle/assets/111686779/ccf5e610-addc-480d-9481-ab29be2bb111.png" width = "150">
 </div>
 
