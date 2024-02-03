@@ -11,3 +11,21 @@ class tree
     public tree right;
     public tree left;
 }
+```
+
+## Parametreler
+
+- `node`: Ağaçtaki mevcut düğüm.
+- `value`: Eklenecek düğümün değeri.
+
+## Dönüş Değeri
+
+Metot, güncellenmiş ağaç yapısını temsil eden kök düğümü döndürür.
+
+## İşleyiş
+
+1. Eğer mevcut düğüm null ise, yeni düğüm oluşturulur ve ağacın kökü olarak atanır.
+2. Eğer mevcut düğüm null değilse, eklenen değere göre ağaç içerisinde uygun konuma gidilir.
+3. Eğer eklenen değer mevcut düğümün değerinden büyükse, sağ alt ağaca git ve eğer sağ alt düğüm null ise, yeni düğüm buraya eklenir; değilse, sağ alt ağacın altında işlem tekrarlanır.
+4. Eğer eklenen değer mevcut düğümün değerinden küçükse, sol alt ağaca git ve eğer sol alt düğüm null ise, yeni düğüm buraya eklenir; değilse, sol alt ağacın altında işlem tekrarlanır.
+5. İşlem tamamlandığında güncellenmiş ağaç yapısını temsil eden kök düğüm döndürülür.
