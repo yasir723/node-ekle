@@ -22,10 +22,14 @@ class tree
 ### örnek
 
 <div align="center">
-    <h3> Ağaç </h3>
-    <img src="https://github.com/yasir723/node-ekle/assets/111686779/b8e51378-3ad1-4dac-bd43-6d5b1424b258.png" width="400">
-    <h3> Sonuç </h3>
-    <img src="https://github.com/yasir723/node-ekle/assets/111686779/47d379bf-c9f1-4a96-97f1-357deb895d10" width="400">
+     <div>
+        <h3> Ağaç </h3>
+        <img src="https://github.com/yasir723/node-ekle/assets/111686779/b8e51378-3ad1-4dac-bd43-6d5b1424b258.png" width="400">
+     </div>
+     <div>
+        <h3> Sonuç </h3>
+        <img src="https://github.com/yasir723/node-ekle/assets/111686779/47d379bf-c9f1-4a96-97f1-357deb895d10" width="400">
+     </div>
 </div>
 
 
