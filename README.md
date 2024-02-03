@@ -20,7 +20,7 @@ class tree
 - `left`: Düğüme bağlı olan sol alt düğümü belirtir.
 
 <div>
-    <img src="https://github.com/yasir723/node-ekle/assets/111686779/b8e51378-3ad1-4dac-bd43-6d5b1424b258.png" width = "150">
+    <img src="https://github.com/yasir723/node-ekle/assets/111686779/b8e51378-3ad1-4dac-bd43-6d5b1424b258.png" >
 </div>
 
 
