@@ -19,20 +19,6 @@ class tree
 - `right`: Düğüme bağlı olan sağ alt düğümü belirtir.
 - `left`: Düğüme bağlı olan sol alt düğümü belirtir.
 
-### örnek
-
-<div align="center">
-     <div>
-        <h3> Ağaç </h3>
-        <img src="https://github.com/yasir723/node-ekle/assets/111686779/c33ab601-25a4-481c-9ba0-82a6da5de37a" width="600">
-     </div>
-     <div>
-        <h3> Sonuç </h3>
-        <img src="https://github.com/yasir723/node-ekle/assets/111686779/82157c2a-7957-47b4-9f59-6ef645360785" width="600">
-     </div>
-</div>
-
-
 
 ```csharp
 static tree nodeEkle(tree node, int value)
@@ -82,3 +68,22 @@ Metot, güncellenmiş ağaç yapısını temsil eden kök düğümü döndürür
 3. Eğer eklenen değer mevcut düğümün değerinden büyükse, sağ alt ağaca git ve eğer sağ alt düğüm null ise, yeni düğüm buraya eklenir; değilse, sağ alt ağacın altında işlem tekrarlanır.
 4. Eğer eklenen değer mevcut düğümün değerinden küçükse, sol alt ağaca git ve eğer sol alt düğüm null ise, yeni düğüm buraya eklenir; değilse, sol alt ağacın altında işlem tekrarlanır.
 5. İşlem tamamlandığında güncellenmiş ağaç yapısını temsil eden kök düğüm döndürülür.
+
+### örnek
+
+böyle bir ağaç olsun
+<div align="center">
+     <div>
+        <h3> Ağaç </h3>
+        <img src="https://github.com/yasir723/node-ekle/assets/111686779/c33ab601-25a4-481c-9ba0-82a6da5de37a" width="600">
+     </div>
+</div>
+
+ardından yeni bir node eklemek isityoruz node'un value'su 11 olsun
+
+<div align="center">
+     <div>
+        <h3> Sonuç </h3>
+        <img src="https://github.com/yasir723/node-ekle/assets/111686779/82157c2a-7957-47b4-9f59-6ef645360785" width="600">
+     </div>
+</div>
